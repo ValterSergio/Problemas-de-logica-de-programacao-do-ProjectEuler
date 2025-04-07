@@ -1,4 +1,4 @@
-public class Primo10001 {
+public class EnesimoNumeroPrimo {
 
     /*
     Desafio 7 do Project Euler:
